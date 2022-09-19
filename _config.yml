@@ -2,7 +2,7 @@
 title: GoForIt Recipes
 email: your-email@domain.com
 description: The plain text recipe database for hackers
-baseurl: "/"
+baseurl: "/goforitrecipes/"
 github_username:  roykroth
 
 # Build settings
