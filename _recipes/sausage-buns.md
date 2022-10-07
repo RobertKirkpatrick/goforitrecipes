@@ -1,32 +1,32 @@
 ---
 
 layout: recipe
-title: AD Chocolate Cake
-image: IMG_0731.jpg
+title: Sausage or Hotdog Buns
+image: 
 
 ingredients:
-- Devil's food cake mix
-- 1/3 C granulated sugar
-- 1/2 C vegetable oil
-- 1 C water
-- 4 eggs
-- 2 C whipping cream
-- 2 tbsp confectioner's sugar
-- 1 package frozen raspberries, thawed
-- 12 oz semi-sweet chocolate chips
-- 3/4 C butter, room temperature
+- 1/2 cup (120ml) warm milk
+- 1/2 cup (120ml) warm water
+- 2.5 tsp (9g) active dry yeast 
+- 3.5 cups (525g) bread flour
+- 1 Tbsp (15g) granulated sugar 
+- 1.5 (7g)  tsp fine sea salt
+- 1 egg 
+- 1 egg yolk
+- 2.5 (35g) Tbsp softened unsalted butter
 
 directions:
-- Preheat oven to 325 degrees.
-- Combine cake mix, granulated sugar, oil, water and eggs. 
-- Pour into three 8 inch rounds, greased and floured.
-- Bake for 20 min or until done.
-- Bring 1 C whipping cream to a boil, then stir chocolate chips until melted, use whisk.
-- Cool until room temperature. 
-- Whisk into chocolate mixture room temperature butter. Leave until room temp then put in fridge. Allow time to cool completely.
-- Whip 1 C whipping cream and confectioner's sugar until stiff peaks. 
-- Mash raspberries.
-- Assemble cake in the following layers- Cake, whipping cream, cake, raspberries, cake. Then frost with gnache.
+- Let all Ingredients come up to room temperature.
+- Start by combining whole milk and water. Heat up (95-98F) and add instant yeast. Whisk together. Let sit at room temperature for 10 minutes.
+- In the bowl of a stand mixer, combine all the dry ingredients (525g breadflour, 15g sugar, 5g sea salt) tand whisk together. 
+- Using the dough hook attachment, mix on low speed and mix in the milk/yeast mixture along with the egg and egg yolk. 
+- Continue to mix until smooth and add in softened unsalted butter 1 Tbsp at a time. Mix until thoroughly combined. 
+- Shape dough into a ball and place in a greased bowl covered with greased plastic wrap and let rise at room temperature for 60 minutes.
+- Punch the dough down, dump onto a lightly floured surface. Divide into 10-12 even pieces. 
+- Shape into a ball and cover with a damp towel and let rest for 10 minutes. 
+- Roll dough balls into 6” long cylinders and place on a parchment lined baking sheet about half inch apart. Cover with an inverted baking sheet or greased plastic wrap. Let rise for 45 minutes.
+- Brush each cylinder with egg wash. Set in a 375F oven for 15-20 minutes. 
+- Remove and brush with melted butter. 
 
 ---
-AD's mom always made this cake for special occasions. The family usually requested it for birthdays!
+https://www.youtube.com/watch?v=TQNizn8eCbc
