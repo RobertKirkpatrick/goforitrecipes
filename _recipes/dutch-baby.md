@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: AD Chocolate Cake
+title: Dutch-Baby (puffed pankcake)
 image: 
 
 ingredients:
