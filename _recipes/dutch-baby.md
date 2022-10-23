@@ -6,11 +6,11 @@ image:
 
 ingredients:
 - Batter
-  - Us 3 eggs
-  - Us 2/3 c whole milk
-  - Us 1/2 c AP flour
-  - Us pinch of sugar
-  - Uspinch of salt
+  - 3 eggs
+  - 2/3 c whole milk
+  - 1/2 c AP flour
+  - pinch of sugar
+  - pinch of salt
 - Add in ideas
   - Aromatic vegetables cooked into the dutch baby
   - Fruit to top
